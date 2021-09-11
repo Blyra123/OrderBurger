@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const nextButton =  document.querySelector('#next');
     const prevButton =  document.querySelector('#prev');
     const sendButton =  document.querySelector('#send');
-    //Объект, содержащий вопросы и ответы
+    //Объект, который содержит вопросы и ответы 
     const questions = [
         {
             question: "Какого цвета бургер?",
